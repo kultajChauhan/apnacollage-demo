@@ -1,4 +1,4 @@
 # apnacollage-demo
 This is my first Git Repository. 
 <br>
-Author-Kultaj singh Chauhan.
+Author-Kultaj singh Chauhan(software developer).
